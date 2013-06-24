@@ -63,7 +63,7 @@ This is **GOOD:**
 
 This is **EXTREMELY BAD:**
 
-    if(var.func( param1, param2 ))
+    if(Herp.DStuff( Param1, Param2 ))
     {
         // do things
     }
